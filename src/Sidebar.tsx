@@ -1,4 +1,4 @@
-import { Box, capitalize, Checkbox, FormControlLabel, Typography } from "@mui/material";
+import { Box, Checkbox, FormControlLabel } from "@mui/material";
 import React, { useState } from "react";
 
 interface Department {
